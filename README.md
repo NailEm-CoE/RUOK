@@ -15,7 +15,8 @@ RUOK, a deep learning model has been implemented to support the screening protoc
 
 ---
 
-<img src="https://github.com/NailEm-CoE/RUOK/assets/15160408/35b1d29a-30af-4a6e-bd8c-d3202c51ecc3" alt="ruok-diagram" height="300">
+
+<img src="https://github.com/NailEm-CoE/RUOK/assets/15160408/fd5b2fb5-805b-4d0d-9ced-0c010d5f7e1f" alt="ruok-diagram" height="300">
 
 ---
 
@@ -33,7 +34,7 @@ For details, RUOK was implemented and trained with Python `3.8.13` and [Pytorch]
 
 # Inference
 
-![ruok-heatmap-1](https://github.com/NailEm-CoE/RUOK/assets/15160408/a8c0c8ef-38c2-4561-8432-2455f0a3041e)
+![ruok-heatmap-1](https://github.com/NailEm-CoE/RUOK/assets/15160408/a90279c1-fd24-4165-8c7b-7cc94bfac0c1)
 
 To run the model, please refer to the [example.ipynb](example.ipynb) notebook for detailed instructions.
 
