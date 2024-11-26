@@ -47,7 +47,7 @@ Please cite our paper if you find this code or this work is useful:
 ```bibtex
 @inproceedings{ruok,
   title={RUOK: Recuration of a Public Dataset Utilized to Optimize Knowledge for Multi-label Chest X-ray Disease Screening},
-  author={P. Poonnatuch and P. Tieanworn and S. Puangarom and others},
+  author={P. Boonyarattanasoontorn and P. Tieanworn and S. Puangarom and others},
   booktitle={2024 46th Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)},
   pages={},
   year={2024},
